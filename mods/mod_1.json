@@ -1,0 +1,11 @@
+{
+  "name": "simple shifts v0.0",
+  "type": "mod",
+  "author": "Stepan Bogachev",
+  "version": "0.0",
+  "mode": {
+    "random_x_shift_len": [20, 50],
+    "random_y_shift_amplitude": [-0.5, 0.5],
+    "random_x_shift_amplitude": [-0.2, 0]
+  }
+}
